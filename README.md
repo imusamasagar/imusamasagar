@@ -13,8 +13,8 @@
 
 Success in programming often comes from daring to tackle challenges beyond your current expertise and learning as you go.
 
-- 🔭 &ensp; I’m currently working on Web and Mobile Application Development (Android, iOS & Cross Platform)
-- 🌱 &ensp; I'm currently learning React Native, Next JS & more ❤️
+- 🔭 &ensp; I’m currently working on Web Application Development 
+- 🌱 &ensp; I'm currently learning Next JS & more ❤️
 - ⚡ &ensp; Fun fact: I love finding solutions of problems ⭐
 - 👨‍💻  &ensp; Working in full-stack development for more than a year ✨
 
@@ -33,11 +33,11 @@ Success in programming often comes from daring to tackle challenges beyond your 
 <br />
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,git,github,vscode,bootstrap,electron,express,githubactions,graphql,materialui,mongodb,netlify,nextjs,postman,redux,tailwind,ts,html,css&theme=light)]([https://muddasar-portfolio.netlify.app/])
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,git,github,vscode,bootstrap,electron,express,githubactions,graphql,materialui,mongodb,netlify,nextjs,postman,redux,tailwind,ts,html,css&theme=light)]([/])
 
 <br />
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/muddasir03)
+![Leetcode Stats](https://leetcard.jacoblin.cool/imusamasagar)
 
 <br /> 
 
@@ -45,14 +45,14 @@ Success in programming often comes from daring to tackle challenges beyond your 
  <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
   <tr>
     <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muddasir03&show_icons=true&locale=en&layout=compact" alt="Muddasar Hussain" height="200px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imusamasagar&show_icons=true&locale=en&layout=compact" alt="Muhammad Usama" height="200px" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muddasir03&" alt="muddasir03" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imusamasagar&" alt="imusamasagar" />
     </td>
    </tr>
 </table> 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muddasir03&show_icons=true&locale=en" alt="Muddasar Hussain" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imusamasagar&show_icons=true&locale=en" alt="Muhammad Usama" /></p>
 
 <br />
 <br />
