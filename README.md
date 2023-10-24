@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Developer | MERN Stack Specialist | Next JS  </h3>
 
 <div class="row" align="center">
-    <img src="https://img.shields.io/github/followers/muddasir03?label=Github%20Followers&style=for-the-badge" alt="muddasir03" />
-    <img src="https://img.shields.io/github/stars/muddasir03?label=Github%20stars&style=for-the-badge" alt="muddasir03" />
-    <img  src="https://komarev.com/ghpvc/?username=muddasir03&label=Profile Views&color=blue&style=for-the-badge" alt="muddasir03" />
+    <img src="https://img.shields.io/github/followers/imusamasagar?label=Github%20Followers&style=for-the-badge" alt="imusamasagar" />
+    <img src="https://img.shields.io/github/stars/imusamasagar?label=Github%20stars&style=for-the-badge" alt="imusamasagar" />
+    <img  src="https://komarev.com/ghpvc/?username=imusamasagar&label=Profile Views&color=blue&style=for-the-badge" alt="imusamasagar" />
 
 
 </div>
@@ -20,14 +20,14 @@ Success in programming often comes from daring to tackle challenges beyond your 
 
 ### Connect With Me
 
-[<img align="left" alt="Muddasar Hussain | Website" target="blank" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-[<img align="left" alt="Muddasar Hussain | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
-[<img align="left" alt="Muddasar Hussain | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
-[<img align="left" alt="Muddasar Hussain | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
-[<img align="left" alt="Muddasar Hussain | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
-[<img align="left" alt="Muddasar Hussain| Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
-[<img align="left" alt="Muddasar Hussain | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
-[<img align="left" alt="Muddasar Hussain | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="Muhammad Usama | Website" target="blank" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="Muhammad Usama | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="Muhammad Usama | Twitter" width="28px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt="Muhammad Usama | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
+[<img align="left" alt="Muhammad Usama | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook]
+[<img align="left" alt="Muhammad Usama| Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
+[<img align="left" alt="Muhammad Usama | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
+[<img align="left" alt="Muhammad Usama | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 
 <br />
 <br />
