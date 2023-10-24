@@ -37,9 +37,7 @@ Success in programming often comes from daring to tackle challenges beyond your 
 
 <br />
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/imusamasagar)
 
-<br /> 
 
 
  <table cellspacing="0" cellpadding="0" style="border:none;" align="center">
