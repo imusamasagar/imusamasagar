@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://muddasar-portfolio.netlify.app/">Muhaamad Usama</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="/">Muhaamad Usama</a></h1>
 <h3 align="center">Full Stack Developer | MERN Stack Specialist | Next JS  </h3>
 
 <div class="row" align="center">
