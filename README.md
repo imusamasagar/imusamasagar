@@ -58,13 +58,13 @@ Success in programming often comes from daring to tackle challenges beyond your 
 <br />
 <br />
 
-[website]: https://muddasar-portfolio.netlify.app/
-[whatsapp]: https://wa.me/923114722746
-[mail]: mailto:muddasarhussain739@gmail.com
-[twitter]: https://twitter.com/moodijan03
-[linkedin]: https://linkedin.com/in/muddasarhussain
-[github]: https://github.com/muddasir03
-[instagram]: https://www.instagram.com/moodijan83
-[facebook]: https://www.facebook.com/mian.mudassar.37669/
-[medium]: https://medium.com/@muddasir03
-[vscode]: https://code.visualstudio.com
+[website]: /
+[whatsapp]: https://wa.me/923012142747
+[mail]: mailto:usamaist2747@gmail.com
+[twitter]: https://twitter.com/home
+[linkedin]: https://www.linkedin.com/in/usama-sagar-3b6581210/
+[github]: https://github.com/imusamasagar
+[instagram]: https://www.instagram.com/im_usamasagar/?igshid=OGQ5ZDc2ODk2ZA%3D%3D
+[facebook]: https://www.facebook.com/home.php
+[medium]: /
+[vscode]: /
